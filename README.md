@@ -7,3 +7,5 @@ It is made using Pygame module of Python.
 
 <h3>Game Preview:</h3>
 <img src="egg-catcher gif.gif" height=500px>
+
+<h3>How to 
